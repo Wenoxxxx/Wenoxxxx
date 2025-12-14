@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="/assets/OwenRM.gif"/>
+  <img src="/assets/OwenRM1.gif"/>
 </div>
 
 An Information Technology student at **BukSU** open for learning and building real-world projects using modern technologies. 
