@@ -1,7 +1,7 @@
 
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=84&section=header&reversal=false&text=Hi!%20I'm%20Owen%20M.%20Jerusalem.&fontSize=40&fontColor=ffff&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=17&descAlign=25.6&descAlignY=80&textBg=false&color=random"  />
+<div align="center">
+  <img src="/assets/OwenRM.gif"/>
 </div>
 
 An Information Technology student at **BukSU** open for learning and building real-world projects using modern technologies. 
