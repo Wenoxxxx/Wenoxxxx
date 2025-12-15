@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="/assets/OwenRM1.gif"/>
 </div>
@@ -11,14 +9,11 @@ An Information Technology student at **BukSU** open for learning and building re
  - Frontend: **HTML**, **CSS**, **JavaScript**
  - Backend & Databases: **MySQL**, **Python**, **Java**, **C**
  - Tools & Platforms: **Git**, **GitHub**
-   *Note: only the basics of these *
-
+   *Note: only the basics of these*
 
 ## 📊 Stats
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenoxxxx&radius=16&theme=redical&area=true&order=5&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="activity-graph graph"  />
-
-
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenoxxxx&radius=16&theme=react-dark&area=true&order=5&line=ffff00&color=ffff00&title_color=ffff00&point=ff00ff&area_color=ffff00&hide_border=true" height="300" alt="activity-graph graph" />
+</div>
 
