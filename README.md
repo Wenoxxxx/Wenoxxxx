@@ -18,5 +18,5 @@ An Information Technology student at **BukSU** open for learning and building re
 </div>
 
 <div align="center">
-  <em><strong>Ang Kalibog maoy sinugdan sa Kaalam - Kuya Earnie</strong></em>
+  <em><strong>Ang Kalibog mao ang sinugdan sa Kaalam - Kuya Earnie</strong></em>
 </div>
