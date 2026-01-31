@@ -1,7 +1,6 @@
 # I’m Wenoxxxx
 
-Welcome to my GitHub profile!
-- An IT student at *Bukidnon State University*.
+Welcome to my GitHub profile! An IT student at *Bukidnon State University*.
 
 ## 👀 Interests
 - Developing real-world solutions.
