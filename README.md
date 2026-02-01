@@ -2,17 +2,17 @@
 
 Welcome to my GitHub profile! An IT student at *Bukidnon State University*.
 
-## 👀 Interests
+## Interests
 - Developing real-world solutions.
 - UI/UX.
 - Automation systems.
 - Cats.
 
-## 💡Currently Learning
+## Currently Learning
 - React for frontend.
 - Laravel utilization for large-scale applications.
 
-## 🛠️ Technologies I Use
+## Technologies I Use
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! An IT student at *Bukidnon State University*.
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-## 📜 Notes in Life
+## Notes in Life
 - I'm always amazed how complex systems work and always eager to face challenges throughout my journey.
 - *"Ang Kalibog mao ang sinugdan sa Kaalam"* - Kuya Earnie
 
