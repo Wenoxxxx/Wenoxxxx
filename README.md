@@ -34,7 +34,6 @@ Welcome to my GitHub profile! An IT student at *Bukidnon State University*.
 </div>
 
 ## Notes in Life
-- I'm always amazed how complex systems work and always eager to face challenges throughout my journey.
 - *"Ang Kalibog mao ang sinugdan sa Kaalam"* - Kuya Earnie
 
 Open for collaborations! Please flee free to explore my repositories.
