@@ -13,7 +13,7 @@ Welcome to my GitHub profile! An IT student at *Bukidnon State University*.
 - Laravel utilization for large-scale applications.
 
 ## Technologies I Use
-<div align="left">
+<div align="left" gap="3px">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
