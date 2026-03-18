@@ -1,11 +1,5 @@
 <img src="assets/OwenRM1.gif">
 
-## Interests
-- Developing real-world solutions.
-- UI/UX.
-- Automation systems.
-- Cats.
-
 ## Technologies I Use
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
