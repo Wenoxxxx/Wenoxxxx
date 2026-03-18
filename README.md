@@ -1,7 +1,7 @@
 <img src="assets/OwenRM1.gif">
 
-## Technologies I Use
-<div align="left">
+##
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
