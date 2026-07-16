@@ -1,42 +1,5 @@
 <img src="assets/OwenRM1.gif">
 
-##
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-</div>
-
 ## 
 
 <div align="center">
