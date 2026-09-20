@@ -1,6 +1,12 @@
 name: Update GitAscii
 
 on:
+  push:
+    paths:
+      - gitascii.json
+      - .github/workflows/gitascii.yml
+  schedule:
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
